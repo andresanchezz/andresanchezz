@@ -11,7 +11,6 @@ Technologies
     <td align="center">
       <a href="https://benyou.me">
         <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
-        <br>
     </td>
   </tr>
 </table>
