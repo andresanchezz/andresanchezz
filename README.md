@@ -3,4 +3,4 @@
 
 Technologies 
 
-<progress id="prog" value="0" max="100">Javascript</progress>
+<progress id="prog" value="50" max="100">Javascript</progress>
