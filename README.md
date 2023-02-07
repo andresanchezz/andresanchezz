@@ -7,7 +7,7 @@ Technologies
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&theme=151515" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&theme=" />
     </td>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -18,3 +18,5 @@ Technologies
   </tr>
 </table>
 
+
+(https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
