@@ -12,6 +12,11 @@ Version control
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 
+### Languages
+
+- Spanish native
+- English B2
+
 ### Studies
 
 - Systems Technologist from UTS (Colombia)
