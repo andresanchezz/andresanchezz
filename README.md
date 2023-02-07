@@ -15,8 +15,5 @@ Version control
 - Spanish native
 - English B2    
 ### Studies
-Systems Technologist from UTS (Colombia)
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&theme=react" />
+-Systems Technologist from UTS (Colombia) <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&theme=react" />
 
