@@ -3,4 +3,4 @@
 
 Technologies 
 
-<progress id="prog" value="50" max="100">Javascript</progress>
+[![andresanchezz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andresanchezz)](https://github.com/anuraghazra/github-readme-stats)
