@@ -4,7 +4,7 @@
 Technologies 
 
 
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+<table>
   <tr>
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&theme=" />
