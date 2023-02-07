@@ -3,4 +3,4 @@
 
 Technologies 
 
-[![andresanchezz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andresanchezz)](https://github.com/anuraghazra/github-readme-stats)
+[![andresanchezz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andresanchezz)](https://github.com/andresanchezz/)
