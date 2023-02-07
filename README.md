@@ -12,9 +12,10 @@ Version control
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 
 ### Languages
-
 - Spanish native
-- English B2 ### Studies- Systems Technologist from UTS (Colombia)
+- English B2    
+### Studies
+Systems Technologist from UTS (Colombia)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&theme=react" />
