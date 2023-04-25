@@ -10,7 +10,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 
 ### Languages
-- Spanish native
+- Native spanish
 - English B2    
 ### Studies
 - Systems Technologist from UTS (Colombia) 
