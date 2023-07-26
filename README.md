@@ -16,7 +16,7 @@
 
 - Version control     
   
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 
 ### Languages
 - Native spanish
