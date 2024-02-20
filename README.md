@@ -10,10 +10,6 @@
  
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
 
-- Back end 
-
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-
 - Version control     
   
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
