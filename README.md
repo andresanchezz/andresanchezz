@@ -1,24 +1,22 @@
-### Hi there I'm Andresanchezz, I'm 20
-### Front end developer in growth
+### Hi there I'm Andresanchezz, I'm 22
+### Full stack and UX/UI dev
 
-- Technologies
+Technologies
 
- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue js logo">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript logo">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind logo">
 
-- Front end frameworks
-                                             
- 
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress logo">
 
-- Version control     
-  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest js logo">
 
-### Languages
-- Native spanish
-- English B2    
-### Studies
-- Systems Technologist from UTS (Colombia) 
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo">
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo">
+
+
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=andresanchezz&show_icons=true&theme=react" />
 
