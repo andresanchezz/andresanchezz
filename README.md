@@ -3,14 +3,11 @@
 
 Technologies
 
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue js logo">
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript logo">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind logo">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue js logo"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript logo"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind logo">
 
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress logo">
 
 <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest js logo">
-
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo">
 
