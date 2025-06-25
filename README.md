@@ -39,6 +39,7 @@ y construir cosas que realmente generen impacto.
 ### Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)  
+![Wordpress](https://img.shields.io/badge/Wordpress-F05032?style=flat-square&logo=git&logoColor=fff)  
 
 ---
 
