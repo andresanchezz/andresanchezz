@@ -1,13 +1,10 @@
-# Andrés Sánchez | Desarrollador web fullstack
+# Andrés Sánchez | Desarrollador Full Stack Web
 
-Enfocado en crear soluciones completas **desde un diseño intuitivo hasta una lógica robusta**.
+Enfocado en crear soluciones completas:  
+**desde una experiencia visual intuitiva hasta una lógica robusta.**
 
 Me gusta lo **simple**, **funcional** y **ordenado**:  
-código claro, diseño intuitivo y resultados que suman.
+código claro, diseño enfocado en el usuario y resultados que suman.
 
 Valoro la **eficiencia**, la **buena energía en los equipos**  
-y construir cosas que realmente aporten.
-
----
-
-# 
+y construir cosas que realmente generen impacto.
