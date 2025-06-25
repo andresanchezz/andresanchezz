@@ -1,11 +1,13 @@
-# Andrés Sánchez | Desarrollador Frontend Web
+# Andrés Sánchez | Desarrollador web fullstack
 
-Enfocado en crear **interfaces limpias, funcionales y con impacto real**.
+Enfocado en crear soluciones completas **desde un diseño intuitivo hasta una lógica robusta**.
 
-Me gusta lo **simple**, **estético** y **ordenado**:  
-código claro, diseño intuitivo y experiencias que suman.
+Me gusta lo **simple**, **funcional** y **ordenado**:  
+código claro, diseño intuitivo y resultados que suman.
 
 Valoro la **eficiencia**, la **buena energía en los equipos**  
 y construir cosas que realmente aporten.
 
 ---
+
+# 
