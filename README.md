@@ -46,5 +46,5 @@ y construir cosas que realmente generen impacto.
 
 ![Inglés - B2](https://img.shields.io/badge/Inglés-Intermedio%2FAvanzado-007ACC?style=flat-square&logo=translate&logoColor=fff)
 
-[![Más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=andresanchezz&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
