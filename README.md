@@ -1,4 +1,11 @@
-## Andrés Sánchez | Desarrollador frontend web
-## Siempre busco generar un impacto positivo en mi entorno, ser eficiente y contagiar una buena energia.
+# Andrés Sánchez | Desarrollador Frontend Web
 
-## Me gusta lo simple, estético, funcional y ordenado
+Enfocado en crear **interfaces limpias, funcionales y con impacto real**.
+
+Me gusta lo **simple**, **estético** y **ordenado**:  
+código claro, diseño intuitivo y experiencias que suman.
+
+Valoro la **eficiencia**, la **buena energía en los equipos**  
+y construir cosas que realmente aporten.
+
+---
